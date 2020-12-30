@@ -1,5 +1,5 @@
 import React from 'react'
-import { StyleSheet, Text, View } from 'react-native'
+import { Image, StyleSheet, Text, View } from 'react-native'
 import {images} from '../Utils/CoinIcons'
 
 const styles = StyleSheet.create({
